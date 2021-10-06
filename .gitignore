@@ -1,2 +1,2 @@
-*.idea*
-*.log !/main.log 
+*.log
+!main.log 
